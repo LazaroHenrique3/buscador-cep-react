@@ -1,6 +1,8 @@
-# Barbearia do Zé
+# Buscador de CEP
 
 Projeto React que consome a api viaCEP, projeto feito com base na videoaula do canal do youtube **Sujeito Programador**
+
+## 👀 Deploy: [Buscador Cep](https://buscador-cep-react-five.vercel.app).
 
 ## 🖼 Screenshots do projeto
 
@@ -13,7 +15,7 @@ Projeto React que consome a api viaCEP, projeto feito com base na videoaula do c
 
 ## 🛠️ Construído com
 
-*React
+* **React
 
 ## ✒️ Autor
 
