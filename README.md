@@ -14,7 +14,7 @@ Projeto React que consome a api viaCEP, projeto feito com base na videoaula do c
 
 ## 🛠️ Construído com
 
-* **React
+* **React**
 
 ## ✒️ Autor
 
