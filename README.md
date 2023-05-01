@@ -1,6 +1,6 @@
 # Buscador de CEP
 
-Projeto React que consome a api viaCEP, projeto feito com base na videoaula do canal do youtube **Sujeito Programador**
+Projeto React que consome a api viaCEP, projeto feito com base na videoaula do canal do youtube **Sujeito Programador**.
 ## 👀 Ver deploy! 👉 <a href="https://buscador-cep-react-five.vercel.app" target="_blank">Buscador CEP</a>
 
 ## 🖼 Screenshots do projeto
